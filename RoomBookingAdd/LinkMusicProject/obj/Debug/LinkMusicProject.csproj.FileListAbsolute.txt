@@ -1,0 +1,17 @@
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.Groups.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.Properties.Resources.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.csproj.GenerateResource.Cache
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\bin\Debug\LinkMusicProject.exe.config
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\bin\Debug\LinkMusicProject.exe
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\bin\Debug\LinkMusicProject.pdb
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.exe
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.pdb
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.Resources.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.csprojResolveAssemblyReference.cache
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.Rooms.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.roomMenu.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.Equipment.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.RoomRate.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.ViewBookings.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.LinkMenu.resources
+C:\Users\por12071839\documents\visual studio 2013\Projects\RoomBookingAdd\LinkMusicProject\obj\Debug\LinkMusicProject.ShowRoomTimeTable.resources
